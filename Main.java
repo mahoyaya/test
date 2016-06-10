@@ -16,5 +16,7 @@ public class Main {
     //int i2 = i + s; // 型が違うのでコンパイルエラー
     System.out.println(i+s); // 19 print関数の場合は結合になる
     System.out.println(s+i); // 91 上記と同様
+
+    int foo = 0.1;
   }
 }
