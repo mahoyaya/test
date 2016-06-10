@@ -9,6 +9,8 @@ public class Main {
     System.out.println(int_sum);
     System.out.println(double_sum);
 
+    // コメント
+
     // 文字列の場合は変換されない
     String s = "9";
     //int i2 = i + s; // 型が違うのでコンパイルエラー
